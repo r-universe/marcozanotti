@@ -1,6 +1,6 @@
 [
   {
     "package": "dispositionEffect",
-    "oncran": false
+    "oncran": true
   }
 ]
