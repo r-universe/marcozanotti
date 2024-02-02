@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/marcozanotti/universe
+	url = https://github.com/marcozanotti/marcozanotti.r-universe.dev
 	branch = HEAD
 [submodule "dispositionEffect"]
 	path = dispositionEffect
